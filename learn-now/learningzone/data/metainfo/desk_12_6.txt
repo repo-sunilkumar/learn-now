@@ -1,2 +1,0 @@
-Find tutorials and interview questions of aspnet-subjective
-Tutorials and interview question of aspnet-subjective True or False: A Web service can only be written in .NET.  What is ViewState?  What are the types of Authentication?  What is the Web User Control?  What namespaces are necessary to create a localized application?  How to Manage State in ASP.Net?  What is Side-by-Side Execution?  How to view an assembly?  What are the layouts of ASP.NET Pages?  What is a Namespace? What is the use of a namespace? 

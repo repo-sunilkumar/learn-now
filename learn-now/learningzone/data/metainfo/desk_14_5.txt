@@ -1,2 +1,0 @@
-Find tutorials and interview questions of database-subjective
-Tutorials and interview question of database-subjective What is BLOB ?  What is data mining?  Compare DBMS versus object oriented DBMS?  What are the types of SQL Commands?  What is an attribute?  What are the different types of data models ?  What is an active database?  What are acid properties?  What is a tuple?  What is meant by embedded SQL? 

@@ -1,2 +1,0 @@
-Find tutorials and interview questions of database-subjective
-Tutorials and interview question of database-subjective What are the purpose of Normalisation?  Define Primary Key?  Define Unique Key?  Define Foreign Key?  Define View?  Compare and contrast TRUNCATE and DELETE for a table?  What is cursors?  Define Sub Query?  What are the different types of sub query?  What are the different types of replication? 

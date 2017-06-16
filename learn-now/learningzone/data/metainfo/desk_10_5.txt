@@ -1,2 +1,0 @@
-Find tutorials and interview questions of c-sharp-subjective
-Tutorials and interview question of c-sharp-subjective What is object?  What are the types of arrays in C#?  What is the difference between Object and Instance?  Define destuctors?  What is the use of enumerated data type?  Define Constructors?  What is encapsulation?  Does c# support multiple inheritance?  What is ENUM?  What is a data set? 

@@ -1,2 +1,0 @@
-Find tutorials and interview questions of programming-language-css-tricks
-Tutorials and interview question of programming-language-css-tricks How to add shadow to div  Add image to div background  Add style to scroll bars 

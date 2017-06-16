@@ -1,2 +1,0 @@
-Find tutorials and interview questions of c-sharp-subjective
-Tutorials and interview question of c-sharp-subjective What is ClickOnce?  What is object role modeling (ORM) ?  What is a private assembly?  What is a shared assembly?  Where do custom controls reside?  What is a third-party control ?  What is a binary formatter?  What is Boxing/Unboxing?  What is a COM Callable Wrapper (CCW)?  What is a Runtime Callable Wrapper (RCW)? 

@@ -1,2 +1,0 @@
-Find tutorials and interview questions of c-sharp-subjective
-Tutorials and interview question of c-sharp-subjective What does  immutable mean?  Does C# support multiple-inheritance?  What is inheritance?  What are the different categories of inheritance?  How to split a string with a string delimiter?  What is instrumentation?  What is code review?  What is logging?  What are mock-ups?  What is a multiple-document interface(MDI)? 
