@@ -1,0 +1,18 @@
+﻿<nav>
+    <ul class="mainMenu">
+        <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.LEARNING.flag" ng-class="{'active' : $state.current.data.mainMenu=='learning'}"><a href="#/learning" data-translate>MY LEARNING</a></li>
+        <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.CONTENT.flag" ng-mouseenter="showMenu()" ng-mouseleave="closeMenu()" ng-class="{'active' : $state.current.data.mainMenu=='content'}">
+            <a href="#/tracks" data-translate>Content</a>
+            <div class="dropNav" ng-style="{'display': navdispaly}">
+                <ul>
+                    <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.TRACK.flag"><a href="javascript:void(0)" ng-click="closeMenu()" ui-sref="track-list" data-translate>Tracks</a></li>
+                    <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.COURSE.flag"><a href="javascript:void(0)" ng-click="closeMenu()" ui-sref="course-list" data-translate>Courses</a></li>
+                    <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.UNIT.flag"><a href="javascript:void(0)" ng-click="closeMenu()" ui-sref="units-list" data-translate>Units</a></li>
+                    <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.ITEM.flag"><a href="javascript:void(0)" ng-click="closeMenu()" ui-sref="items-list" data-translate>Items</a></li>
+                    <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.TEST.flag"><a href="javascript:void(0)" ng-click="closeMenu()" ui-sref="tests-list" data-translate>Tests</a></li>
+                    <li ng-if="vm.AUTHORIZATION_PAGE_OPTION.QUESTION.flag"><a href="javascript:void(0)" ng-click="closeMenu()" ui-sref="questions" data-translate>Questions</a></li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+</nav>

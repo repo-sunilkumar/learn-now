@@ -1,0 +1,2 @@
+Find tutorials and interview questions of database-subjective
+Tutorials and interview question of database-subjective What is User Defined Functions?  Define Self Join?  Define Sequence?  Define Joins?  What are the types of Joins?  Define Equi Joins?  Define Cartesian Join?  What are three SQL keywords used to change or set someone’s permissions?  What are primary keys and foreign keys?  What is an Entity? 

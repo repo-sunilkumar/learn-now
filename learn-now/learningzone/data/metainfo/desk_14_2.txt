@@ -1,0 +1,2 @@
+Find tutorials and interview questions of database-subjective
+Tutorials and interview question of database-subjective What is BCP? When does it used?  Explain the use of the by GROUP BY and the HAVING clause?  What is DataWarehousing?  What are the advantages of Database?  What are the advantage of SQL?  What is the difference between join and outer join?  Define Boyce coded normal form?  What are the transaction properties?  What is OLTP(OnLine Transaction Processing)?  What is Data Reader? 

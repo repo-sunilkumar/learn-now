@@ -1,0 +1,58 @@
+﻿<style>
+    .qt { border: 1px solid rgb(205, 200, 200); margin-bottom: 7px; margin-top: 6px; font-size: 0.9em; color: rgb(114, 107, 107) !important; }
+    .tblQuesList { width: 100%; }
+    .qt:hover { border: 1px solid #999; border-radius: 2px; box-shadow: #999; }
+    .qt:hover .divopt { display: inline !important; visibility: visible !important; }
+    .tblQuesList tr:nth-child(2) td { padding-left: 20px; padding-right: 20px; padding-bottom: 0px; padding-top: 5px; background-color: rgb(253, 253, 253); margin-bottom: 1px; }
+    .tblQuesList tr:nth-child(1) td { padding: 10px; margin-bottom: 1px; }
+
+    .answerbox { text-align: justify; background-color: transparent !important; margin-bottom: 3px; padding: 2px; min-height: 18px !important; }
+    .ques { font-weight: bold; color: rgb(57, 37, 160) !important; }
+    .pagination { margin: 10px 0px 0px 2px !important; }
+    .leftNav { margin: 10px 0px 0px 11px; }
+    .leftNav a { display: block; }
+    .leftNav .active { background-color: #8680d8 !important; border-color: #8680d8 !important; }
+    .leftNav .active a { color: white !important; }
+    .leftNav .badge { background-color: #69ce3d !important; }
+</style>
+<div class="row">
+    <div class="col-md-3 col-sm-3 col-xs-12">
+        <div class="leftNav">
+        </div>
+    </div>
+    <div class="col-md-9 col-sm-9 col-xs-12">
+        <div class="answerbox">
+            <div id="divData" class="divData">
+      
+                <div class='qt' ng-repeat="q in vm.questionList.ques">
+
+                    <table class='tblQuesList'>
+                        <tr>
+                            <td>
+                                {{$index+1}}.&nbsp;&nbsp;<span class='ques'>
+                                    <a href='{{q.u}}' alt='{{q.q}}'>{{q.q.replace("�", "'")}}</a>
+                                </span>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td class='answerbox'>
+
+                                <ul class='ulans'>
+                                    <li>{{q.op1}}</li>
+                                    <li>{{q.op2}}</li>
+                                    <li>{{q.op3}}</li>
+                                    <li ng-if="q.op4">{{q.op4}}</li>
+                                    <li ng-if="q.op5">{{q.op5}}</li>
+                                </ul>
+                                <b>Answer : <span class='objans'>{{q.a}}</span></b>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+
+      
+            </div>
+        </div>
+    </div>
+</div>

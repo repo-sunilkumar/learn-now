@@ -1,0 +1,2 @@
+Find tutorials and interview questions of aspnet-subjective
+Tutorials and interview question of aspnet-subjective What is delegate?  Explain Exception handling in .Net.  What is impersonation?  What are Merge modules?  What is Satellite assembly?  Define secured sockets layer.  Define session in ASP.NET.  Define Tracing.  Define View State.  What is application domain? 

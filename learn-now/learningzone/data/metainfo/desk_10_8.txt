@@ -1,0 +1,2 @@
+Find tutorials and interview questions of c-sharp-subjective
+Tutorials and interview question of c-sharp-subjective What are the features of c#?  What are the types of errors?  What is the difference between break and continue statement?  How does assembly versioning work?  What is a code group?  What are sealed classes in c#?  What is the difference between static and instance methods?  What are the different types of variables in C#?  What is meant by method overloading?  What is parameters? 

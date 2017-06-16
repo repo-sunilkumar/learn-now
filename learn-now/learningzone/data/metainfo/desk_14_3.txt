@@ -1,0 +1,2 @@
+Find tutorials and interview questions of database-subjective
+Tutorials and interview question of database-subjective What are the properties of the Relational tables?  What is Data set ?  What is Record set?  What is Execute scalar  What is Execute Reader?  What is Execute Non Query?  Define SQL?  Define DBMS?  What is the purpose of Database systems?  State the different between Security and Integrity? 

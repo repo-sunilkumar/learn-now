@@ -1,0 +1,2 @@
+Find tutorials and interview questions of c-sharp-subjective
+Tutorials and interview question of c-sharp-subjective What is multi-tasking  What are the different types of Assembly?  What is a Managed Code?  What is reflection?  Difference between a private and shared assembly?  Difference between an interface and abstract class?  Can you inherit multiple interfaces?  What is an interface class?  What is an abstract class?  Difference between System.Array.CopyTo() and System.Array.Clone()? 

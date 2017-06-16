@@ -1,0 +1,2 @@
+Find tutorials and interview questions of database-subjective
+Tutorials and interview question of database-subjective What command do we use to rename a db?  What is Cross Join?  What is Storage Manager?  What are stored-procedures? And what are the advantages of using them?  What is DDL (Data Definition Language)?  What is Weak Entity set?  What is a deadlock?  What do you mean by flat file database?  What is Index?  What is the difference between a HAVING CLAUSE and a WHERE CLAUSE? 

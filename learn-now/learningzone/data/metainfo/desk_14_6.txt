@@ -1,0 +1,2 @@
+Find tutorials and interview questions of database-subjective
+Tutorials and interview question of database-subjective What is Functional Dependency?  What are the different phases of transaction?  What the difference between UNION and UNIONALL?  What is diffrence between Co-related sub query and nested sub query?  What is the use of DBCC commands?  What is a Linked Server?  What is Collation?  What are different type of Collation Sensitivity?  What is the difference between a primary key and a unique key?  What is File Manager? 

@@ -1,0 +1,2 @@
+Find tutorials and interview questions of c-sharp-subjective
+Tutorials and interview question of c-sharp-subjective Explain how exceptions are handled by the common language runtime in .NET.  Describe the different types of user-authored controls in NET.  Explain with code sample how to create an inherited control.  Explain with code sample how to create a user control.  What is the managed execution process?  What are assemblies? Describe the types of assemblies. 
